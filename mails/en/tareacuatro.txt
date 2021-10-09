@@ -1,0 +1,9 @@
+[{shop_url}] 
+
+Dear {firstname} {lastname},
+
+Thank you for spent {total_spent} at {shop_name}. 
+
+Here are your details bellow
+
+E-mail Address: {email}
